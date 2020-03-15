@@ -1,5 +1,26 @@
 .App {
   text-align: center;
+  background-color: #343434;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.h1 {
+  color: #F8F8FF;
+  font-size: calc(10px + 5vmin);
+}
+
+.h2 {
+  color: #F8F8FF;
+  font-size: calc(10px + 3vmin);
 }
 
 .App-logo {
