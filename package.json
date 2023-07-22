@@ -15,7 +15,7 @@
     "react-scripts": "^5.0.1",
     "react-social-icons": "^4.1.0",
     "styled-components": "^5.3.11",
-    "typewriter-effect": "^2.18.0"
+    "typewriter-effect": "^2.20.1"
   },
   "resolutions": {
     "minimist": "^1.2.5"
